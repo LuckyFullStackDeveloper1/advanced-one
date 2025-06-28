@@ -1,0 +1,10 @@
+this._s=this._s||{};(function(_){var window=this;
+try{
+_.r("soHxf");
+var cdf;cdf=new Set(["aria-label","disabled"]);
+_.ddf=class extends _.QK{static Ra(){return{service:{Wk:_.Lr}}}constructor(a){super(a.Oa);this[_.JD]=!0;this.Wk=a.service.Wk;if(_.CE(this.getRoot())&&(this.getRoot().hasClass("tN4Gf")||this.getRoot().hasClass("CeiTH"))){a=this.getRoot().el();var b=this.Jv.bind(this);a.__soy_skip_handler=b}}getLabel(){return this.Ab("V67aGc").Zb()}setLabel(a){this.Ab("V67aGc").wc(a)}fq(a){_.id([(0,_.sd)`aria-`],this.getRoot().el(),"aria-label",a)}Jv(a,b){var c=b.getLabel();b.Ba()||typeof c!=="string"||c===this.Fa("V67aGc").Zb()||
+(this.setLabel(c.toString()),this.Ea());_.adf(this.getRoot(),this.Xa("V67aGc"),b,this.Wk,()=>{this.Ea()});!!b.Xi()!==this.Fh()&&this.Bi(!!b.Xi());c=b.Sh();c!==this.getRoot().Yc("aria-label")&&(c?_.id([(0,_.sd)`aria-`],this.getRoot().el(),"aria-label",c):this.getRoot().removeAttr("aria-label"));_.Xcf(this,a.data.kc,b.data.kc);a=(a=b.data.attributes)?a.toString():"";_.zE(this.getRoot(),a,{Iga:cdf});return!0}};_.H(_.ddf.prototype,"SQpL2c",function(){return this.getLabel});_.O(_.bdf,_.ddf);
+_.u();
+}catch(e){_._DumpException(e)}
+})(this._s);
+// Google Inc.
